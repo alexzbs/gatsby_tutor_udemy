@@ -1,10 +1,10 @@
 import React from "react"
 import Layout from "../components/Layout"
 
-export default function Home() {
+export default function error() {
   return (
     <Layout>
-      <h1>hello from gatsby</h1>
+      <h1>not found</h1>
     </Layout>
   )
 }
